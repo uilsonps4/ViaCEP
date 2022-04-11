@@ -1,0 +1,10 @@
+{
+
+ "name":"ups/viacep",
+ "autoload": {
+     "psr-4": {
+         "App\\":"app/"
+             
+   }
+ }
+}
